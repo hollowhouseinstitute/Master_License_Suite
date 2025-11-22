@@ -1,9 +1,8 @@
-# hollowhouse master license suite
-
+Master_License_Suite
 ## Hollow House Institute  
 Founder: **Amy Pierce Bui**  
 
-**Repository:** `hollowhouse-master-license-suite`  
+**Repository:** `Master_License_Suite`  
 **Organization:** Hollow House Institute  
 **License:** Hollow House Master License Suite  
 

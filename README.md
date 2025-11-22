@@ -19,7 +19,7 @@ Central legal hub for the Hollow House Institute, including the Master License S
 
 ### Getting Started  
 ```bash
-git clone https://github.com/hollowhouseinstitute/hollowhouse-master-license-suite.git
+git clone https://github.com/hollowhouseinstitute/master-license-suite.git
 cd hollowhouse-master-license-suite
 ```
 

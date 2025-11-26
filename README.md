@@ -3,7 +3,7 @@
 ![License: AHRL-1](https://img.shields.io/badge/License-AHRL--1-blue)
 ![License: RAP-DL 1.0](https://img.shields.io/badge/License-RAP--DL_1.0-purple)
 ![License: FBCR-1](https://img.shields.io/badge/License-FBCR--1-green)
-![License: Flame 444-A](https://img.shields.io/badge/License-444A-orange)
+![License: Flame 444-A](https://img.shields.io/badge/License-444A-dorange)
 ![License: TCDPL-4.4](https://img.shields.io/badge/License-TCDPL--4.4-red)
 ![Institute](https://img.shields.io/badge/Hollow_House-Institute-black)
 

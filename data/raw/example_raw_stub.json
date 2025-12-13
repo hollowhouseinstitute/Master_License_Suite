@@ -1,0 +1,9 @@
+{
+  "record_id": "RAW-EXAMPLE-001",
+  "origin": "field_observation",
+  "collection_context": "human–AI interaction study",
+  "contains_pii": true,
+  "anonymized": false,
+  "governing_license": "TCDPL-4.4",
+  "status": "reference_stub_only"
+}

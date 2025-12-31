@@ -57,9 +57,15 @@ These licenses apply to **all Hollow House Institute repositories**, including:
 Unauthorized commercial use is strictly prohibited.
 
 ---
+Hollow House Institute
+Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute
+Structured Human Intelligence
 
-## 📞 Contact
+Website: https://hollowhouseinstitute.com
+Datasets: https://hollowhouseinstitute.com/datasets
+Licensing: https://hollowhouseinstitute.com/licensing
 
+Contact: data@hollowhouseinstitute.com
 For commercial licensing inquiries or collaboration:  
 **Hollow House Institute — Founder: Amy Pierce Bui**
 

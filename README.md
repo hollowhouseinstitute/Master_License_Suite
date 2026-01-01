@@ -1,4 +1,6 @@
 # 🏛️ Hollow House Institute — Master License Suite
+> Time turns behavior into infrastructure.  
+> Behavior is the most honest data there is.
 
 ![License: AHRL-1](https://img.shields.io/badge/License-AHRL--1-blue)
 ![License: RAP-DL 1.0](https://img.shields.io/badge/License-RAP--DL_1.0-purple)

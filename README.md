@@ -58,6 +58,13 @@ These licenses apply to **all Hollow House Institute repositories**, including:
 
 Unauthorized commercial use is strictly prohibited.
 
+## Canonical Research
+
+This dataset catalog supports the Hollow House Institute longitudinal AI governance framework.
+
+Authoritative methodology and definitions:
+https://hollowhouseinstitute.com/longitudinal-ai-governance
+
 ---
 Hollow House Institute
 Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute

@@ -1,7 +1,15 @@
 # 🏛️ Hollow House Institute — Master License Suite
 > Time turns behavior into infrastructure.  
 > Behavior is the most honest data there is.
+## Licensing & Governance
 
+All datasets, metadata, schemas, and derivative materials in this repository are governed by the Hollow House Institute Master License Suite (HHI-MLS):
+
+https://github.com/hollowhouseinstitute/Master_License_Suite
+
+No dataset in this catalog is open-use by default.
+
+Access is restricted and request-based. Commercial use, redistribution, training, or derivative works require written authorization from Hollow House Institute.
 ![License: AHRL-1](https://img.shields.io/badge/License-AHRL--1-blue)
 ![License: RAP-DL 1.0](https://img.shields.io/badge/License-RAP--DL_1.0-purple)
 ![License: FBCR-1](https://img.shields.io/badge/License-FBCR--1-green)

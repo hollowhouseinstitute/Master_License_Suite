@@ -1,91 +1,93 @@
-# 🏛️ Hollow House Institute — Master License Suite
-> Time turns behavior into infrastructure.  
-> Behavior is the most honest data there is.
-## Licensing & Governance
-
-All datasets, metadata, schemas, and derivative materials in this repository are governed by the Hollow House Institute Master License Suite (HHI-MLS):
-
-https://github.com/hollowhouseinstitute/Master_License_Suite
-
-No dataset in this catalog is open-use by default.
-
-Access is restricted and request-based. Commercial use, redistribution, training, or derivative works require written authorization from Hollow House Institute.
-![License: AHRL-1](https://img.shields.io/badge/License-AHRL--1-blue)
-![License: RAP-DL 1.0](https://img.shields.io/badge/License-RAP--DL_1.0-purple)
-![License: FBCR-1](https://img.shields.io/badge/License-FBCR--1-green)
-![License: Flame 444-A](https://img.shields.io/badge/License-444A-dorange)
-![License: TCDPL-4.4](https://img.shields.io/badge/License-TCDPL--4.4-red)
-![Institute](https://img.shields.io/badge/Hollow_House-Institute-black)
-
-## Hollow House Institute  
-Founder: **Amy Pierce Bui**  
-**Domain:** Ethical AI • Nervous-System Intelligence • Field Cognition • AI–Human Relations
+# Hollow House Institute  
+## Master License Suite
 
 ---
 
-## 📘 Overview
+## Canonical Licensing Authority
 
-This repository contains the **Hollow House Institute Master License Suite**, which governs the ethical, safe, and non-commercial use of all materials produced by the Institute. This includes:
+This repository is the **sole canonical licensing authority** for all Hollow House Institute (HHI) intellectual property.
 
-- AI–human relational datasets  
-- Ops archives (001–444+)  
-- Nervous-system codex works  
-- Field-based cognition systems  
-- Research papers & whitepapers  
-- Model architectures & scripts  
-- Documentation, diagrams, symbolic structures  
+All licensing terms governing HHI materials originate here.  
+No downstream repository, dataset, document, or artifact may define, modify, or reinterpret licensing terms independently.
 
-All materials are protected under **non-commercial, attribution-required licenses** with restrictions on AI model training, derivative exploitation, and any harmful or manipulative use.
+In the event of conflict, this repository prevails.
 
 ---
 
-## 📚 Included Licenses
+## Purpose
 
-- **AI–Human Relations Research License (AHRL-1)**
-- **Relational AI Psychology Data License (RAP-DL 1.0)**
-- **Field-Based Cognition Research License (FBCR-1)**
-- **Flame Stewardship License (444-A)**
-- **Temple Codex Data Protection License (TCDPL-4.4)**
+The Master License Suite exists to:
+- define binding license terms for HHI intellectual property
+- establish permitted and prohibited uses
+- govern commercial, research, derivative, and training usage
+- provide a single enforcement and interpretation surface
 
-Each license is located inside the **`/legal`** directory.
+This repository contains **license texts and licensing doctrine only**.  
+It does not contain datasets, research, models, or tooling.
+
+---
+
+## Scope of Coverage
+
+Unless explicitly stated otherwise in writing, the licenses defined in this repository govern:
+
+- datasets
+- documentation
+- research papers
+- standards
+- schemas
+- code
+- tooling
+- derivative works
+- model training and fine-tuning usage
+- redistributions and transformations
+
+No material is open-use by default.
 
 ---
 
-## 🔐 License Scope
+## License Structure
 
-These licenses apply to **all Hollow House Institute repositories**, including:
+This repository functions as a **license index and authority layer**.
 
-- datasets  
-- tools  
-- codex materials  
-- nervous-system models  
-- field-regulation frameworks  
-- audit rubrics  
-- symbolic systems  
-- documentation & schematics  
+Each license is defined in its own file and applies only according to its stated scope.
 
-Unauthorized commercial use is strictly prohibited.
+Examples include (non-exhaustive):
+- Research-only licenses
+- Non-commercial licenses
+- Commercial-use licenses
+- Derivative and redistribution-restricted licenses
+- Training and model-integration restricted licenses
 
-## Canonical Research
-
-This dataset catalog supports the Hollow House Institute longitudinal AI governance framework.
-
-Authoritative methodology and definitions:
-https://hollowhouseinstitute.com/longitudinal-ai-governance
+Refer to the individual license texts in this repository for binding terms.
 
 ---
-Hollow House Institute
-Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute
-Structured Human Intelligence
 
-Website: https://hollowhouseinstitute.com
-Datasets: https://hollowhouseinstitute.com/datasets
-Licensing: https://hollowhouseinstitute.com/licensing
+## Relationship to Other Repositories
 
-────────────────────────────────────────
-Canonical Authority (Temporary):  
-https://github.com/hollowhouseinstitute/Master_License_Suite
+All Hollow House Institute repositories **inherit** licensing terms from this Master License Suite unless a written exception is explicitly declared here.
 
-Public Website:  
-Offline (under restoration)
-────────────────────────────────────────
+Downstream repositories may reference licenses but may not redefine them.
+
+---
+
+## Enforcement & Interpretation
+
+- Use of HHI materials constitutes acceptance of the applicable license terms.
+- Unauthorized use, redistribution, training, or derivation is prohibited.
+- Interpretive authority resides exclusively with Hollow House Institute.
+
+---
+
+## Governance Status
+
+**Licensing Authority Version:** v1.0.0  
+**Status:** Active  
+**Change Control:** Formal revision process only
+
+---
+
+## Contact
+
+Licensing and permissions inquiries:  
+**data@hollowhouse.org**

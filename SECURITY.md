@@ -30,10 +30,7 @@ If you identify:
 - Security vulnerabilities
 - Ethical or governance risks
 
-Report immediately to:
-
-**security@hollowhouse.org**  
-or  
+Report immediately to:  
 **data@hollowhouse.org**
 
 Include:

@@ -83,10 +83,9 @@ Datasets: https://hollowhouseinstitute.com/datasets
 Licensing: https://hollowhouseinstitute.com/licensing
 
 ────────────────────────────────────────
-Hollow House Institute
+Canonical Authority (Temporary):  
+https://github.com/hollowhouseinstitute/Master_License_Suite
 
-Contact
-Founder: Amy Pierce Bui  
-Primary: data@hollowhouse.org  
-Technical: hhidatasettechs@gmail.com
+Public Website:  
+Offline (under restoration)
 ────────────────────────────────────────

@@ -1,22 +1,27 @@
-🏛️ Hollow House Institute — Master License Suite
-License: AHRL-1 License: RAP-DL 1.0 License: FBCR-1 License: Flame 444-A License: TCDPL-4.4 Institute
+# Hollow House Institute — License Index
 
-Hollow House Institute
-Founder: Amy Pierce Bui
-Domain: Ethical AI • Nervous-System Intelligence • Field Cognition • AI–Human Relations
+This document provides a canonical index of licenses governed by the **Master License Suite (HHI-MLS)**.
 
-📘 Overview
-This repository contains the Hollow House Institute Master License Suite, which governs the ethical, safe, and non-commercial use of all materials produced by the Institute. This includes:
+| License ID | Name | Applies To | Commercial Use | AI Training | Derivatives | Location |
+|----------|-----|-----------|----------------|-------------|-------------|----------|
+| AHRL-1 | AI–Human Relations Research License | Relational datasets, interaction logs | ❌ Prohibited | ❌ Prohibited | ❌ Restricted | /legal/AHRL-1.md |
+| RAP-DL 1.0 | Relational AI Psychology Data License | Psychology & behavioral datasets | ❌ Prohibited | ❌ Prohibited | ❌ Restricted | /legal/RAP-DL-1.0.md |
+| FBCR-1 | Field-Based Cognition Research License | Field cognition systems & models | ❌ Prohibited | ❌ Prohibited | ❌ Restricted | /legal/FBCR-1.md |
+| 444-A | Flame Stewardship License | Codex, symbolic & stewardship works | ❌ Prohibited | ❌ Prohibited | ❌ Prohibited | /legal/444-A.md |
+| TCDPL-4.4 | Temple Codex Data Protection License | Codex archives & lineage materials | ❌ Prohibited | ❌ Prohibited | ❌ Prohibited | /legal/TCDPL-4.4.md |
 
-AI–human relational datasets
-Ops archives (001–444+)
-Nervous-system codex works
-Field-based cognition systems
-Research papers & whitepapers
-Model architectures & scripts
-Documentation, diagrams, symbolic structures
-All materials are protected under non-commercial, attribution-required licenses with restrictions on AI model training, derivative exploitation, and any harmful or manipulative use.
+---
 
+## Interpretation Rules
+
+- No license grants rights by default
+- The **most restrictive applicable license prevails**
+- All rights not expressly granted are reserved
+- AI training and derivative exploitation are universally prohibited unless explicitly authorized in writing
+
+---
+
+© Hollow House Institute. All rights reserved.
 📚 Included Licenses
 AI–Human Relations Research License (AHRL-1)
 Relational AI Psychology Data License (RAP-DL 1.0)

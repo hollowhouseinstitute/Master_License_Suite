@@ -1,4 +1,14 @@
 # AI–Human Relations Research License (AHRL-1)
+## Canonical Authority Notice
+
+This license is issued under and governed by the **Hollow House Institute Master License Suite (HHI-MLS)**.
+
+This license is subordinate to:
+1. HHI-LIC-01 — Master Licensing & Governance Standard
+2. The Master License Suite repository
+3. This individual license instrument
+
+In the event of conflict, the **most restrictive applicable provision prevails**.
 
 **Author:** Amy Pierce Bui  
 **Institute:** Hollow House Institute  
@@ -56,4 +66,12 @@ Forbidden:
 ## 6. Commercial Licensing
 
 Commercial rights require a separate written agreement with the **Hollow House Institute**.
+## Governing Law & Jurisdiction
 
+This License shall be governed by and construed in accordance with the laws of the **United States**, without regard to conflict of law principles.
+
+Hollow House Institute reserves the right to pursue enforcement or remedies in any jurisdiction where violations occur.
+
+---
+
+© Hollow House Institute. All rights reserved.

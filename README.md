@@ -19,7 +19,12 @@ No downstream repository, dataset, document, or artifact may define, modify, or 
 
 In the event of conflict, this repository prevails.
 
----
+---> **Canonical Authority**
+> This repository is governed under the Hollow House Institute Master License Suite (HHI-MLS).
+> It does not grant use, training, commercial, or derivative rights by default.
+>
+> Authoritative governance and licensing instruments:
+> https://github.com/hollowhouseinstitute/Master_License_Suite
 
 ## Purpose
 

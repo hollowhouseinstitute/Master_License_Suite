@@ -1,11 +1,12 @@
-# Hollow House Institute  
-## Master License Suite
 
+# Hollow House Institute — Master License Suite
+
+This repository is the authoritative licensing and governance source for all Hollow House Institute assets.
+
+It defines ethical use, access restrictions, derivative limits, and compliance requirements.  
+No rights are granted by default.
 ---
 
-## Canonical Licensing Authority
-
-This repository is the **sole canonical licensing authority** for all Hollow House Institute (HHI) intellectual property.
 
 All licensing terms governing HHI materials originate here.  
 No downstream repository, dataset, document, or artifact may define, modify, or reinterpret licensing terms independently.

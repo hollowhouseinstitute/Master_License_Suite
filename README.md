@@ -1,6 +1,12 @@
 
 # Hollow House Institute — Master License Suite
 
+**Hollow House Institute**  
+**Structured Human Intelligence**
+
+*Time turns behavior into infrastructure.*  
+*Behavior is the most honest data there is.*
+
 This repository is the authoritative licensing and governance source for all Hollow House Institute assets.
 
 It defines ethical use, access restrictions, derivative limits, and compliance requirements.  

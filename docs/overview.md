@@ -9,3 +9,8 @@ This repository centralizes the core licenses used across the Hollow House Insti
 - Temple Codex Data Protection License (TCDPL-4.4)
 
 Fill in each file in the `legal/` folder with the full, final license text.
+### Public Professional Profile
+
+Connect or view governance updates via LinkedIn:
+
+https://www.linkedin.com/in/hollow-house-institute-3ab5a2182

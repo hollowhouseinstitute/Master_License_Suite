@@ -7,6 +7,13 @@
 *Time turns behavior into infrastructure.*  
 *Behavior is the most honest data there is.*
 
+## Canonical References
+
+- **HHI Governance Glossary**  
+  https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
+
+- **Hollow House Institute — Professional Updates**  
+  https://www.linkedin.com/company/hollow-house-institute/
 This repository is the authoritative licensing and governance source for all Hollow House Institute assets.
 
 It defines ethical use, access restrictions, derivative limits, and compliance requirements.  
@@ -30,6 +37,9 @@ git commit -m "Update governance glossary to v1.1.0 (behavioral infrastructure +
 git push origin main
 git tag v1.1.0-governance-glossary
 git push origin v1.1.0-governance-glossary
+
+- **LinkedIn — Hollow House Institute**  
+  https://www.linkedin.com/in/hollow-house-institute-3ab5a2182
 
 ## Purpose
 

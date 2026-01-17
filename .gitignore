@@ -12,3 +12,6 @@ data/processed/*
 !data/processed/.gitkeep
 data/samples/*
 !data/samples/.gitkeep
+AUDIT_gitleaks.json
+AUDIT_identity_drift.txt
+
